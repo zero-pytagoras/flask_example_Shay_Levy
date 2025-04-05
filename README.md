@@ -6,8 +6,7 @@ I used a free HTML template and added a small Python function that shows the ope
 ## 🔧 Features
 
 - Clean and responsive template  
-- Shows your operating system on the home page  
-- Simple Flask routing (Home, About, Category, Work)
+- Shows your operating system on the home page
 
 ## ▶️ How to Run
 
